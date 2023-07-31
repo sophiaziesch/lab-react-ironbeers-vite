@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: content-box;
+}
+
+nav {
+	background-color: lightskyblue;
+}
+
+.beer-card {
+	height: 500px;
+	border: solid black 3px;
+	margin: 1rem;
+	padding: 1rem;
+}
+
+.beer-card img {
+	height: 300px;
+}
